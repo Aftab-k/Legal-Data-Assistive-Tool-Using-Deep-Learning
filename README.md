@@ -3,7 +3,7 @@ Generate concise &amp; accurate summaries of legal documents through abstractive
 
 # Features
 * Utilizes state-of-the-art pretrained models (Legal Pegasus, Legal LED, DistilBART) for effective text processing.
-* Implements diverse approaches (chunking, sentence ranking, POS tagging, similarity) to optimize summarization performance.
+* Implements diverse approaches (chunking, sentence ranking, POS tagging, sentence similarity) to optimize summarization performance.
 * Evaluation metrics (BLEU, Precision, Recall, F1 Score, ROUGE) ensure summary quality.
 * Enables legal professionals to make well-informed decisions efficiently.
 
